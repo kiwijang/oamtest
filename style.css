@@ -1,0 +1,27 @@
+body {
+  font-family: "Open Sans","微軟正黑體", sans-serif;
+}
+header {
+  margin: 10vh
+}
+header h1{
+  font-size: 50pt;
+  margin-bottom: 5vh;
+  color:#00838f;
+}
+.fc p{
+  font-size: 1vh;
+  color: #00838f;
+  text-align: center;
+}
+.fc h2{
+  font-size: 7vh;
+  color: #00838f;
+  text-align: center;
+}
+.fic { 
+   transform: translateX(-20%) rotate(25deg);
+}
+
+
+  
