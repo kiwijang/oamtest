@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1528355476275">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1528357707729">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="273876847" ref="index"/>
+    <file name="index.css" crc="214079201" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="holdframe_freebie_claudiosalas_sheep_rough_html5-canvas">
@@ -21,5 +21,5 @@
   <folder name="images">
     <file name="首頁-favicon.ico" crc="468747638" ref="index"/>
   </folder>
-  <file name="index.html" crc="4081289898" mt="1528353660672" redirect="true"/>
+  <file name="index.html" crc="135376568" mt="1528357681263" redirect="true" seo="true"/>
 </manifest>
