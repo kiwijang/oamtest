@@ -1,0 +1,25 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1528355476275">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="273876847" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="holdframe_freebie_claudiosalas_sheep_rough_html5-canvas">
+      <file name="Holdframe_Freebie_ClaudioSalas_Sheep_Rough_HTML5 Canvas.js" crc="516433969" mt="1528352604000"/>
+      <file name="Holdframe_Freebie_ClaudioSalas_Sheep_Rough_HTML5 Canvas.html" crc="241799867" mt="1528352604000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="首頁-favicon.ico" crc="468747638" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4081289898" mt="1528353660672" redirect="true"/>
+</manifest>
