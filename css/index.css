@@ -6,6 +6,6 @@
 .js body{visibility:hidden;}
 .js body.initialized{visibility:visible;}
 #u668-bw{z-index:2;position:fixed;left:0px;right:0px;top:0px;}
-.css_verticalspacer .verticalspacer{height:calc(100vh - 1500px);}
+.css_verticalspacer .verticalspacer{height:calc(100vh - 3000px);}
 .html{background-color:#F0EDDD;}
 body{position:relative;min-width:1160px;}
