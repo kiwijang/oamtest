@@ -7,8 +7,5 @@
 .js body.initialized{visibility:visible;}
 #u668-bw{z-index:2;position:fixed;left:0px;right:0px;top:0px;}
 .css_verticalspacer .verticalspacer{height:calc(100vh - 3000px);}
-@media only screen and (min-width: 600px) {
-    #u668{height:3000px;width:90%;}
-}
 .html{background-color:#F0EDDD;}
 body{position:relative;min-width:1160px;}
