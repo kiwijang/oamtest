@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1528566712615">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1528722071985">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="214079201" ref="index"/>
+    <file name="index.css" crc="459685922" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="holdframe_freebie_claudiosalas_sheep_rough_html5-canvas">
@@ -19,7 +19,7 @@
     <file name="require.js" crc="4157109226" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="首頁-favicon.ico" crc="4003971355" ref="phone>index"/>
+    <file name="首頁-favicon.ico" crc="468747638" ref="phone>index:index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -27,5 +27,5 @@
     </folder>
     <file name="index.html" crc="3822114256" seo="true" mt="1528566617712" redirect="true"/>
   </folder>
-  <file name="index.html" crc="75617603" seo="true" mt="1528566173826" redirect="true"/>
+  <file name="index.html" crc="4225405032" seo="true" mt="1528722054980" redirect="true"/>
 </manifest>
